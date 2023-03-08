@@ -4,8 +4,8 @@ NovelAI的学习之路
 ## ToDoList
 - [x] 三段式写作：[链接](https://www.bilibili.com/read/cv19143955)
 - [ ] 使用局部重绘，生成指定角色的表情包：[链接](https://www.bilibili.com/read/cv19064710?spm_id_from=333.999.0.0)
-- [ ] Lora的理论与应用：[秋叶的使用教程](https://www.bilibili.com/video/BV1Py4y1d7eJ/?spm_id_from=333.337.search-card.all.click&vd_source=6ac7c4e9791ca84c0eeb7af7f2237d31)
-- [ ] 测试至少20种不同类型的Lora
+- [ ] LORA的理论与应用：[秋叶的使用教程](https://www.bilibili.com/video/BV1Py4y1d7eJ/?spm_id_from=333.337.search-card.all.click&vd_source=6ac7c4e9791ca84c0eeb7af7f2237d31)
+- [ ] 测试至少20种不同类型的LORA
 - [ ] ControlNet Seq 场景生成/人物背景合成：[链接](https://www.bilibili.com/video/BV1zN411F716/?spm_id_from=333.999.0.0&vd_source=6ac7c4e9791ca84c0eeb7af7f2237d31)
 - [ ] ControlNet 修手：[链接](https://www.bilibili.com/video/BV1Ej411g7R4/?spm_id_from=333.999.0.0&vd_source=6ac7c4e9791ca84c0eeb7af7f2237d31)
 
