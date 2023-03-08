@@ -1,5 +1,5 @@
-# Anything4.5+LORA测试
-选择Anything4.5为底模，是因为其作为多种好评模型的融合素材，兼容性较好。
+LORA测试
+默认选择Anything4.5为底模，是因为其作为多种好评模型的融合素材，兼容性较好。
 
 全部测试使用相同的tag，naifu基础起手式，即：
 | 正面 | 1girl, masterpiece, best quality,|
@@ -21,6 +21,7 @@
 | | 雷电将军 | 人物 | [链接](https://civitai.com/models/4829/raiden-shogun-lora-collection-of-trauters) |
 | | 德克萨斯 | 人物 | [链接](https://civitai.com/models/6779/arknights-texas-the-omertosa) |
 | | 蒂法 | 人物 | [链接](https://civitai.com/models/11367/tifameenow) |
+| | 不知火舞 | 人物 | [链接](https://civitai.com/models/16667/akiryos-mai) |
 | | 甘雨 | 人物 | [链接](https://civitai.com/models/11814/ganyu-genshin-impact-realistic-anime-lora) |
 | | 碧蓝僵尸华甲 | 人物 | [链接](https://civitai.com/models/7393/hwah-jah-zombie) |
 | | 国风3.2 | 服装 | [链接](https://civitai.com/models/10415/3-guofeng3) |
@@ -35,6 +36,7 @@
 | | 塔罗牌 | 风格 | [链接](https://civitai.com/models/11177/anime-tarot-card-art-style-lora) |
 | | 幽灵公主 | 风格 | [链接](https://civitai.com/models/6526/studio-ghibli-style-lora) |
 | | 线稿 | 风格 | [链接](https://civitai.com/models/16014/anime-lineart-style) |
+| | chibi | 风格 | [链接](https://civitai.com/models/6889/chibi-style) |
 | | CuteScrap | 风格 | [链接](https://civitai.com/models/5100/cutescrap-05v) |
 | | Flat Color | 风格 | [链接](https://civitai.com/models/6433/loraflatcolor) |
 | | 像素画 | 风格 | [链接](https://civitai.com/models/10706/luisap-pixel-art-lora) |
