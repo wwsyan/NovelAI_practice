@@ -8,6 +8,8 @@ LORA测试
 
 如果模型或起手tag与LORA推荐的tag不匹配，不会更换为LORA的推荐模型（因此效果不一定最好）。
 
+**注意，lora有两种使用方式，一是在可选附加网络中勾选，二是添加prompt。**
+
 **注意，lora标签必须要放在最后才能达到最佳效果！**
 
 **注意，有些LORA需要tag才能生效！在c站可以查看使用说明。** 
@@ -16,10 +18,10 @@ LORA测试
 | 生成图 | LORA名称 | 类型 | 使用说明 | 
 | :---: | :---: | :---: | :---: |
 | <img src="/LORA测试/无lora.png" width="200" height="200"> | 无LORA | - | - |
-| <img src="/LORA测试/光钻.png" width="200" height="200"> | 光钻 | 人物 | 无需tag |
-| <img src="/LORA测试/圣园末光.png" width="200" height="200"> | 圣园末光 | 人物 | 无需tag |
-| <img src="/LORA测试/amakawa hano.png" width="200" height="200"> | amakawa hano | 人物 | 需要tag: amakawa hano |
-| <img src="/LORA测试/吴带ribbon1.png" width="200" height="200"> | 吴带ribbon1 | 人物 | 无需tag |
+| <img src="/LORA测试/光钻.png" width="200" height="200"> | 光钻 | 人物 | 勾选 |
+| <img src="/LORA测试/圣园末光.png" width="200" height="200"> | 圣园末光 | 人物 | 勾选 |
+| <img src="/LORA测试/amakawa hano.png" width="200" height="200"> | amakawa hano | 人物 | tag: amakawa hano |
+| <img src="/LORA测试/吴带ribbon1.png" width="200" height="200"> | 吴带ribbon1 | 人物 | 勾选 |
 | <img src="/LORA测试/雷电将军.png" width="200" height="200"> | 雷电将军 | 人物 | [链接](https://civitai.com/models/4829/raiden-shogun-lora-collection-of-trauters) |
 | <img src="/LORA测试/德克萨斯.png" width="200" height="200"> | 德克萨斯 | 人物 | [链接](https://civitai.com/models/6779/arknights-texas-the-omertosa) |
 | <img src="/LORA测试/蒂法.png" width="200" height="200"> | 蒂法 | 人物 | [链接](https://civitai.com/models/11367/tifameenow) |
