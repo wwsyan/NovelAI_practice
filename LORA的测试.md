@@ -1,5 +1,5 @@
 LORA测试
-默认选择Anything4.5为底模，是因为其作为多种好评模型的融合素材，兼容性较好。
+默认选择Anything4.5为底模，是因为其作为多种好评模型的融合素材，兼容性较好。如果效果实在很惊悚，会使用推荐模型，并额外说明。
 
 全部测试均naifu起手式：
 | 正面 | 1girl, solo, masterpiece, best quality,|
@@ -28,24 +28,19 @@ LORA测试
 | <img src="/LORA测试/僵尸华甲.png" width="200" height="200"> | 碧蓝僵尸华甲 | 人物 | [链接](https://civitai.com/models/7393/hwah-jah-zombie) |
 | <img src="/LORA测试/国风3.2.png" width="200" height="200"> | 国风3.2 | 服装 | [链接](https://civitai.com/models/10415/3-guofeng3) |
 | <img src="/LORA测试/汉服.png" width="200" height="200"> | 汉服 | 服装 | [链接](https://civitai.com/models/15365/hanfu) |
-| | 游戏王黑暗魔法师 | 服装 | [链接](https://civitai.com/models/6213/dark-magician-girl-lora) |
-| | 二次元抽卡手游立绘 | 产品 | [链接](https://civitai.com/models/13090/gacha-splash-lora) |
-| | 带背景的站立人物立绘 | 产品 | [链接](https://civitai.com/models/16997/standing-full-body-with-background-style-lora) |
-| | 人物肖像 | 产品 | [链接](https://civitai.com/models/5658/persona-5-portrait-lora-locon) |
-| | 四足战斗机甲 | 产品 | [链接](https://civitai.com/models/14245/mecha-quadruped-mechas) |
-| | 可爱小人 | 风格 | [链接](https://civitai.com/models/9922/komowata-haruka-chibi-art-style-lora) |
-| | 塔罗牌 | 风格 | [链接](https://civitai.com/models/11177/anime-tarot-card-art-style-lora) |
-| | 幽灵公主 | 风格 | [链接](https://civitai.com/models/6526/studio-ghibli-style-lora) |
-| | 线稿 | 风格 | [链接](https://civitai.com/models/16014/anime-lineart-style) |
-| | chibi | 风格 | [链接](https://civitai.com/models/6889/chibi-style) |
-| | CuteScrap | 风格 | [链接](https://civitai.com/models/5100/cutescrap-05v) |
-| | Flat Color | 风格 | [链接](https://civitai.com/models/6433/loraflatcolor) |
-| | 像素画 | 风格 | [链接](https://civitai.com/models/10706/luisap-pixel-art-lora) |
-| | 手办 | 实物 | [链接](https://civitai.com/models/7984/figma-anime-figures) |
-| | 彩绘模型 | 实物 | [链接](https://civitai.com/models/7718/painted-miniature) |
-| | 微型建筑模型 | 实物 | [链接](https://civitai.com/models/12097/yurokis-model) |
-| | 哈尔的移动城堡 | 场景 | [链接](https://civitai.com/models/14605/howls-moving-castle-interior-scenery-lora-ghibli-style-v3) |
-| | 夸张的奸诈笑容 | 人物表情 | [链接](https://civitai.com/models/4391/lottalewds-anyahehface) |
-
-
+| <img src="/LORA测试/二次元立绘.png" width="200" height="200"> | 二次元抽卡手游立绘 | 产品 | [链接](https://civitai.com/models/13090/gacha-splash-lora) |
+| <img src="/LORA测试/站立二次元立绘.png" width="200" height="200"> | 带背景的站立人物立绘 | 产品 | [链接](https://civitai.com/models/16997/standing-full-body-with-background-style-lora) |
+| <img src="/LORA测试/四足机甲.png" width="200" height="200"> | 四足战斗机甲 | 产品 | [链接](https://civitai.com/models/14245/mecha-quadruped-mechas) |
+| <img src="/LORA测试/chibi1.png" width="200" height="200"> | 可爱小人 | 风格 | [链接](https://civitai.com/models/9922/komowata-haruka-chibi-art-style-lora) |
+| <img src="/LORA测试/chibi2.png" width="200" height="200"> | chibi | 风格 | [链接](https://civitai.com/models/6889/chibi-style) |
+| <img src="/LORA测试/塔罗牌.png" width="200" height="300"> | 塔罗牌 | 风格 | [链接](https://civitai.com/models/11177/anime-tarot-card-art-style-lora) |
+| <img src="/LORA测试/幽灵公主风.png" width="200" height="200"> | 幽灵公主 | 风格 | [链接](https://civitai.com/models/6526/studio-ghibli-style-lora) |
+| <img src="/LORA测试/线稿.png" width="200" height="200"> | 线稿 | 风格 | [链接](https://civitai.com/models/16014/anime-lineart-style) |
+| <img src="/LORA测试/cutescrap.png" width="200" height="200"> | CuteScrap | 风格 | [链接](https://civitai.com/models/5100/cutescrap-05v) |
+| <img src="/LORA测试/platcolor.png" width="200" height="200"> | Flat Color | 风格 | [链接](https://civitai.com/models/6433/loraflatcolor) |
+| <img src="/LORA测试/像素.png" width="200" height="200"> | 像素画 | 风格 | [链接](https://civitai.com/models/10706/luisap-pixel-art-lora) |
+| 不兼容 | 手办 | 实物 | [链接](https://civitai.com/models/7984/figma-anime-figures) |
+| 不兼容 | 彩绘模型 | 实物 | [链接](https://civitai.com/models/7718/painted-miniature) |
+| 不兼容 | 微型建筑模型 | 实物 | [链接](https://civitai.com/models/12097/yurokis-model) |
+| <img src="/LORA测试/哈尔移动城堡风.png" width="200" height="200"> | 哈尔的移动城堡 | 场景 | [链接](https://civitai.com/models/14605/howls-moving-castle-interior-scenery-lora-ghibli-style-v3) |
 
