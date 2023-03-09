@@ -6,7 +6,7 @@
 | :---: | :---: |
 | 负面 | lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry |
 
-如果模型或起手tag与LORA推荐的tag不匹配，不会更换为LORA的推荐模型（因此效果不一定最好）。
+如果起手吟唱效果不佳，会更换为LORA页面中推荐的prompt。
 
 **注意，lora有两种使用方式，一是在可选附加网络中勾选，二是添加prompt。**
 
